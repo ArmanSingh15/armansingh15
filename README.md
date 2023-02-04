@@ -1,4 +1,4 @@
-![Masterhead]()
+![Masterhead](https://i.pinimg.com/originals/d4/8f/f4/d48ff412a005460775821c7228666aa6.gif)
 
 <h1 align="center">Hi 👋, I'm Armanjot Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
